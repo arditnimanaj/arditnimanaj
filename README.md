@@ -4,7 +4,7 @@ Hi 👋 My name is Ardit Nimanaj
 * 🌍  I'm based in Prishtina, Kosovo.
 * ✉️  You can contact me at [arditnimanaj@gmail.com](mailto:arditnimanaj@gmail.com)
 * 🚀  I'm currently working on [Softeh L.L.C](http://softeh.com/ks/sherbimet/)
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning Javascript right now.
 
 ### Skills
 
